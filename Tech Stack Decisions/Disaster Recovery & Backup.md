@@ -1,4 +1,7 @@
 ## 8. Disaster Recovery (DR) & Backup: Decision Guide
+
+This section explores essential strategies and services for ensuring business continuity and data protection. Robust DR and backup plans are vital for minimizing data loss and downtime in the face of outages, cyberattacks, or other disasters.
+
 ### 8.1. Backup & Restore
 
 Backup involves creating copies of your data and configurations, while restore is the process of recovering that data from the backups. This is the foundational layer of any DR strategy.
