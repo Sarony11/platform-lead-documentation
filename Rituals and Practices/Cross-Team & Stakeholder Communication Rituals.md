@@ -15,7 +15,7 @@ These are regular, typically formal meetings designed to update key decision-mak
     * **Q&A:** Open forum for stakeholders to ask questions and provide feedback.
 * **Participants:** Project/Program Manager, Product Leadership, Engineering Leadership, Key Business Unit Heads, Executive Sponsors, and other critical stakeholders.
 * **Frequency:** Typically less frequent than team-level meetings, such as bi-weekly, monthly, or quarterly, depending on project size and criticality.
-* **Timebox:** Varies, from **30 minutes to 1.5 hours**. Agendas should be distributed in advance.
+* **Timebox:** Varies, from **30 minutes to 1.5 hours**. **Agendas should be distributed in advance.**
 * **Benefits:**
     * **Strategic Alignment:** Ensures the project remains aligned with broader business objectives and strategic priorities.
     * **Executive Visibility:** Keeps leadership informed without requiring them to dive into daily details.
