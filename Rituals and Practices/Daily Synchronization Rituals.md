@@ -11,10 +11,11 @@ The Daily Standup (often called Daily Scrum in Scrum methodology) is a brief, ti
     1.  **What did I do yesterday that helped the Development Team meet the Sprint Goal?** (Progress)
     2.  **What will I do today to help the Development Team meet the Sprint Goal?** (Plan)
     3.  **Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?** (Blockers/Challenges)
+    4.  **Do I hace any personal matter I would like to share for any reason?** (Personal matters)
     * *Note:* Discussions about solutions or deep dives into problems are typically deferred to separate, follow-up meetings *after* the standup.
 * **Participants:** Development Team (Engineers, QA), Scrum Master/Facilitator. The Product Owner may attend to listen but generally doesn't lead or participate actively in answering the questions.
-* **Frequency:** Daily, typically at the same time and place.
-* **Timebox:** Strictly **15 minutes**.
+* **Frequency:** Daily, typically at the same time and place, or channel.
+* **Timebox:** Strictly **15 minutes** or a Slack Message ritual managed by a bot.
 * **Benefits:**
     * **Transparency:** Provides a quick overview of who's working on what and current progress.
     * **Early Problem Detection:** Impediments are voiced quickly, allowing the Scrum Master or team to address them promptly.
