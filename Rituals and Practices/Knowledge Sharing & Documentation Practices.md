@@ -124,3 +124,30 @@ This practice involves temporarily assigning team members to work with a differe
     * **Skill Development:** Exposure to new codebases, technologies, or domains accelerates individual learning and growth.
     * **Improved Collaboration:** Future inter-team collaborations become smoother due to prior personal connections and understanding.
 * **Common Pitfalls:** Not having clear goals for the rotation, host teams not being prepared to onboard, rotations being too short to gain real insight, not having a mechanism for sharing learnings back with the home team, disrupting the home team's work if not planned carefully.
+
+---
+
+### 6.6. Asynchronous Documentation & Decision Debates (Tickets/Wiki)
+
+This practice formalizes and encourages participation in documentation and decision-making discussions *without* requiring synchronous meetings, leveraging tools like ticketing systems or wikis for threaded conversations.
+
+* **Objective:** To foster collaborative decision-making and comprehensive documentation of ideas and solutions in an asynchronous, inclusive manner, reducing meeting overhead and creating an audit trail of discussions.
+* **Key Activities:**
+    * **Dedicated Tickets/Wiki Pages:** For significant technical debates, design proposals (like ADRs), or complex problem-solving, a dedicated ticket in the issue tracker (e.g., Jira, GitHub Issues) or a specific wiki page is created.
+    * **Structured Proposal:** The proposer outlines the problem, proposed solution, alternatives, and trade-offs within the ticket/page.
+    * **Asynchronous Debate:** Team members and relevant stakeholders contribute ideas, ask questions, challenge assumptions, and provide feedback through comments on the ticket or edits/comments on the wiki page.
+    * **Time-boxed Discussion:** While asynchronous, a soft deadline might be set for initial feedback to ensure timely progress.
+    * **Dedicated Time for Contribution:** **Explicitly visible, create tickets, or allocate capacity in the sprint for individuals to dedicate time to reading, commenting on, and contributing to these documentation debates.** This ensures it's seen as valuable work, not an "extra."
+    * **Decision Conclusion:** Once sufficient discussion has occurred, the decision-maker (e.g., Tech Lead, Architect, or the team collaboratively) summarizes the outcome, the rationale, and the final decision directly within the ticket/page.
+    * **Linkage:** Link these discussion threads to relevant code, tasks, or other documentation.
+* **Participants:** Any team member or stakeholder with relevant input; a designated decision-maker.
+* **Frequency:** As needed for complex decisions or significant documentation efforts, replacing what might otherwise be multiple synchronous meetings.
+* **Timebox:** Discussion phases can span **days or a week**, allowing time for thoughtful input from different time zones or busy schedules. Actual "work" time dedicated to contributing is allocated via tickets.
+* **Benefits:**
+    * **Reduced Meeting Fatigue:** Significantly cuts down on the need for synchronous meetings, freeing up valuable focus time.
+    * **Inclusivity:** Allows participation from team members in different time zones or those who prefer to contribute in writing rather than verbally.
+    * **Audit Trail:** Creates a permanent, searchable record of the debate, the alternatives considered, and the final decision, along with its rationale.
+    * **Deep Thinking:** Asynchronous nature allows for more thoughtful and researched contributions.
+    * **Improved Documentation Quality:** Discussions directly contribute to the depth and clarity of the final documented decision.
+    * **Valued Contribution:** Explicitly allocating time via tickets or capacity ensures this crucial activity is recognized as legitimate work.
+* **Common Pitfalls:** Discussions dragging on indefinitely, lack of a clear decision-making process at the end, not having clear ownership for wrapping up the discussion and documenting the conclusion, individuals avoiding asynchronous contribution and still demanding meetings.
