@@ -14,7 +14,7 @@ The Sprint Review, often referred to as a "Demo," is a formal meeting where the 
     * **Collaboration:** It's a collaborative working session, not a one-way presentation.
 * **Participants:** Development Team, Product Owner, Scrum Master/Facilitator, and crucially, **Key Stakeholders** (e.g., business owners, end-users, department heads, sales, marketing).
 * **Frequency:** At the end of each sprint (e.g., every 1-2 weeks).
-* **Timebox:** Typically **1-4 hours**, depending on the sprint length and complexity of the increment.
+* **Timebox:** Typically **1-5 minutes per participant**, depending on the sprint length and complexity of the increment.
 * **Benefits:**
     * **Early Feedback:** Crucial for course correction, ensuring the product stays aligned with business needs and user expectations.
     * **Transparency:** Provides stakeholders with a clear view of progress and what they can expect.
